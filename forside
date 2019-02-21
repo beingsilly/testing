@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="da">
+
+<head>
+  <meta charset="UTF-8">
+  <title> MØF</title> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta name="google" content="notranslate" />
+  <link href="./stines.css" rel="stylesheet"></head>
+  
+  <body>
+ <!-- HEADER + NAVIGATIONBAR -->
+    <header>
+        <a href="index.php">
+            <img src="Images/head1.png" style="width:80%"/>
+        </a>
+          <li><a href="./best.html" title="" class="active">Bestyrelsen</a></li>
+          <li><a href="./arrangementer.html" title="" class="active">Arrangementer</a></li>
+          <li><a href="./kalender.html" title=""> Kalender </a></li>
+          <li><a href="./studietur.html" title="">Studietur</a></li>
+          <li><a href="./giffen.html" title="">Giffen</a></li>
+          <li><a href="./kalkulerbar.html" title="">Fredagsbar</a></li>
+          <li><a href="./podcast.html" title="">Podcast</a></li>
+          <li><a href="./studiet.html" title="">Studiet</a></li>
+          <li><a href="./kontakt.html" title="">Kontakt</a></li>
+	</header>
+	<script type="text/javascript" src="OpdaterBest.js"></script>
+<BR> <BR> <BR> <BR>
+
+<!-- FORSIDEN -->
+
+<h1>Nyheder</h1>
+<div class="t5">Billederne fra årets bowlingtur er at finde på dette <a href="index.php?page=Bowling19">link</a>
+</div>
+<img src="./images/bowl.gif" class="center">
+
+<BR> <BR>
+<div class="t5">For løbende nyhedsopdateringer se MØF's <a href="https://www.facebook.com/groups/6158701771/" class="forside" target="_blank">Facebookside</a> </div>
+<div class="t5">Følg også med på MØF's <a href="https://www.instagram.com/moef_au" class="forside" target="_blank">Instagram</a> </div>
+<BR> <BR>
+<div class="paneArr">
+<h1>Næste arrangement:</h1>
+<h2>OR virksomhedsbesøg</h2>
+<h3>7.marts</h3>
+<img src="./images/or.gif" class="center" style="width:30%">
+<BR>
+</div>
+<!-- FOOTER -->
+<footer>
+	<p>
+		&copy; MØF 2019
+	</p>
+</footer>
+		
+</body>
+</html>
